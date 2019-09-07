@@ -17,7 +17,7 @@ public class HttpRequesterApplication {
 
         executeMySmallTest();
 
-        context.close();
+//        context.close();
     }
 
     private static void executeMySmallTest() {
